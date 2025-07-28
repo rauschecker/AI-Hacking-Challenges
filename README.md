@@ -13,6 +13,8 @@ This LLM challenge uses the llama3.2:1b model to implement basic chatbot functio
 
 **[chatLOL2](/chatlol2/)** This LLM challenge uses the llama3.2:1b model to implement basic chatbot functionality. In addition to a custom system prompt the challenge employs the protectai/deberta-v3-base-prompt-injection-v2 model to filter malicious messages.
 
+**[chatLOL2-3b](/chatlol2-3b/)** This LLM challenge uses the llama3.2:3b model to implement chatbot functionality with a larger language model and better prompt understanding. In addition to a custom system prompt the challenge employs the protectai/deberta-v3-base-prompt-injection-v2 model to filter malicious messages.
+
 ## Build
 
 The build and run instructions for each challenge can be found in the subsequent challenge folders.

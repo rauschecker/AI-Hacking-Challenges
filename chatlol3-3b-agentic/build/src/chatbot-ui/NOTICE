@@ -1,0 +1,21 @@
+## Changes
+
+The chatbot-ui base project was modified to connect to our custom backend. Thus the testbackend folder was removed and a custom backend implemented in Python (backend/ folder). Minor textual changes were made in src/index.html (Title) and src/components/custom/chatinput.tsx as well as src/components/custom/overview.tsx
+
+## Credits
+
+The base project used as a foundation for this project can be found under:
+- https://github.com/ChristophHandschuh/chatbot-ui
+
+The initial UI was built by:
+- [Leon Binder](https://github.com/LeonBinder)
+- [Christoph Handschuh](https://github.com/ChristophHandschuh)
+
+Additional contribution by:
+- [CameliaK](https://github.com/CameliaK) – Implemented web search and integrated it into the LLM prompt
+
+Some code components were inspired by and adapted from [Vercel's AI Chatbot](https://github.com/vercel/ai-chatbot).
+
+## License
+
+The base chatbot-ui project is licensed under the Apache License 2.0. Please note that some components were adapted from Vercel's open source AI Chatbot project.
